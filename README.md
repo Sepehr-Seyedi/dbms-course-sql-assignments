@@ -45,4 +45,4 @@ Writing queries using SELECT, DISTINCT, INNER JOIN, and WHERE clauses.
 Understanding relationships between entities such as customers, accounts, loans, and branches.
 
 Conclusion
-This
+This project serves as a practical introduction to database management systems (DBMS) and SQL programming. By modeling a banking system, it reinforces key concepts of relational databases, data integrity, and query logic. The assignment provides a strong foundation for more advanced topics such as normalization, indexing, and transaction management.
