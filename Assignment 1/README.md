@@ -1,4 +1,5 @@
 Assignment 1
+
 Collection of SQL assignments from my university DBMS course, including table creation, data insertion, and various query exercises using Suppliers–Parts–Shipments schema.
 1. Find the names of all suppliers who supply part P2 using a subquery with IN.
 
